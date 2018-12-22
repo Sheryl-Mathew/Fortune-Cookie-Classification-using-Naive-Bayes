@@ -1,0 +1,12 @@
+Naive Bayes:
+
+Accuracy of training data using Naive Bayes from Scratch: 95.962733
+Accuracy of testing data using Naive Bayes from Scratch: 83.168317
+
+Accuracy of training data using Naive Bayes from Sklearn Multinomial: 95.962733
+Accuracy of testing data using Naive Bayes from Sklearn Multinomial: 83.168317
+
+Logistic Regression:
+
+Accuracy of training data using Logistic Regression from Sklearn: 94.409938
+Accuracy of testing data using Logistic Regression from Sklearn: 79.207921
